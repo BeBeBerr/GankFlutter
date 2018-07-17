@@ -1,8 +1,11 @@
-# gank_flutter
+# Gank_Flutter
 
-A new Flutter project.
+GankFlutter 是使用 Flutter 实现的[干货](gank.io)客户端。
 
-## Getting Started
+我会用此项目来学习 Flutter 开发，并持续更新。
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+## 功能
+
+- 首页展示 20 条 iOS 干货信息
+- 下拉刷新
+- 点击跳转 WebView 页面展示详情
